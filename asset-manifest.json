@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/vickyfto/react-simple-quiz/static/js/main.b2b77fd8.chunk.js",
-    "main.js.map": "/vickyfto/react-simple-quiz/static/js/main.b2b77fd8.chunk.js.map",
-    "runtime-main.js": "/vickyfto/react-simple-quiz/static/js/runtime-main.882ec2b9.js",
-    "runtime-main.js.map": "/vickyfto/react-simple-quiz/static/js/runtime-main.882ec2b9.js.map",
-    "static/js/2.b6ef959a.chunk.js": "/vickyfto/react-simple-quiz/static/js/2.b6ef959a.chunk.js",
-    "static/js/2.b6ef959a.chunk.js.map": "/vickyfto/react-simple-quiz/static/js/2.b6ef959a.chunk.js.map",
-    "index.html": "/vickyfto/react-simple-quiz/index.html",
-    "precache-manifest.b2aaa09f2a913fe60d6b06c58c594510.js": "/vickyfto/react-simple-quiz/precache-manifest.b2aaa09f2a913fe60d6b06c58c594510.js",
-    "service-worker.js": "/vickyfto/react-simple-quiz/service-worker.js",
-    "static/js/2.b6ef959a.chunk.js.LICENSE.txt": "/vickyfto/react-simple-quiz/static/js/2.b6ef959a.chunk.js.LICENSE.txt",
-    "static/media/nattu-adnan-unsplash.jpg": "/vickyfto/react-simple-quiz/static/media/nattu-adnan-unsplash.c11f97a3.jpg"
+    "main.js": "/react-simple-quiz/static/js/main.b2b77fd8.chunk.js",
+    "main.js.map": "/react-simple-quiz/static/js/main.b2b77fd8.chunk.js.map",
+    "runtime-main.js": "/react-simple-quiz/static/js/runtime-main.7216a89d.js",
+    "runtime-main.js.map": "/react-simple-quiz/static/js/runtime-main.7216a89d.js.map",
+    "static/js/2.e306df31.chunk.js": "/react-simple-quiz/static/js/2.e306df31.chunk.js",
+    "static/js/2.e306df31.chunk.js.map": "/react-simple-quiz/static/js/2.e306df31.chunk.js.map",
+    "index.html": "/react-simple-quiz/index.html",
+    "precache-manifest.5ae397ed3d390b8e26dd63310b2b5112.js": "/react-simple-quiz/precache-manifest.5ae397ed3d390b8e26dd63310b2b5112.js",
+    "service-worker.js": "/react-simple-quiz/service-worker.js",
+    "static/js/2.e306df31.chunk.js.LICENSE.txt": "/react-simple-quiz/static/js/2.e306df31.chunk.js.LICENSE.txt",
+    "static/media/nattu-adnan-unsplash.jpg": "/react-simple-quiz/static/media/nattu-adnan-unsplash.c11f97a3.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.882ec2b9.js",
-    "static/js/2.b6ef959a.chunk.js",
+    "static/js/runtime-main.7216a89d.js",
+    "static/js/2.e306df31.chunk.js",
     "static/js/main.b2b77fd8.chunk.js"
   ]
 }

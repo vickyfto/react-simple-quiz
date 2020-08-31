@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/vickyfto/react-simple-quiz/static/js/main.b2b77fd8.chunk.js",
+    "main.js.map": "/vickyfto/react-simple-quiz/static/js/main.b2b77fd8.chunk.js.map",
+    "runtime-main.js": "/vickyfto/react-simple-quiz/static/js/runtime-main.882ec2b9.js",
+    "runtime-main.js.map": "/vickyfto/react-simple-quiz/static/js/runtime-main.882ec2b9.js.map",
+    "static/js/2.b6ef959a.chunk.js": "/vickyfto/react-simple-quiz/static/js/2.b6ef959a.chunk.js",
+    "static/js/2.b6ef959a.chunk.js.map": "/vickyfto/react-simple-quiz/static/js/2.b6ef959a.chunk.js.map",
+    "index.html": "/vickyfto/react-simple-quiz/index.html",
+    "precache-manifest.b2aaa09f2a913fe60d6b06c58c594510.js": "/vickyfto/react-simple-quiz/precache-manifest.b2aaa09f2a913fe60d6b06c58c594510.js",
+    "service-worker.js": "/vickyfto/react-simple-quiz/service-worker.js",
+    "static/js/2.b6ef959a.chunk.js.LICENSE.txt": "/vickyfto/react-simple-quiz/static/js/2.b6ef959a.chunk.js.LICENSE.txt",
+    "static/media/nattu-adnan-unsplash.jpg": "/vickyfto/react-simple-quiz/static/media/nattu-adnan-unsplash.c11f97a3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.882ec2b9.js",
+    "static/js/2.b6ef959a.chunk.js",
+    "static/js/main.b2b77fd8.chunk.js"
+  ]
+}
